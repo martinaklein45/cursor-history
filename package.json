@@ -1,6 +1,6 @@
 {
   "name": "cursor-history",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The ultimate open-source tool for browsing, searching, exporting, and backing up your Cursor AI chat history.",
   "main": "src/index.ts",
   "scripts": {
